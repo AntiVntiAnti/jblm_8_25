@@ -1,0 +1,723 @@
+('C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+ 'ver8_17\\build\\JBLM Windows\\PYZ-00.pyz',
+ [('PyQt6',
+   'C:\\Users\\Captain '
+   'Francisco\\jblm_apps\\jblm_8_25\\.venv\\Lib\\site-packages\\PyQt6\\__init__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Captain '
+   'Francisco\\jblm_apps\\jblm_8_25\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Captain '
+   'Francisco\\jblm_apps\\jblm_8_25\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('database', '-', 'PYMODULE'),
+  ('database.add_data', '-', 'PYMODULE'),
+  ('database.add_data.agenda', '-', 'PYMODULE'),
+  ('database.add_data.agenda.friday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\agenda\\friday.py',
+   'PYMODULE'),
+  ('database.add_data.agenda.monday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\agenda\\monday.py',
+   'PYMODULE'),
+  ('database.add_data.agenda.saturday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\agenda\\saturday.py',
+   'PYMODULE'),
+  ('database.add_data.agenda.sunday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\agenda\\sunday.py',
+   'PYMODULE'),
+  ('database.add_data.agenda.thursday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\agenda\\thursday.py',
+   'PYMODULE'),
+  ('database.add_data.agenda.tuesday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\agenda\\tuesday.py',
+   'PYMODULE'),
+  ('database.add_data.agenda.wednesday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\agenda\\wednesday.py',
+   'PYMODULE'),
+  ('database.add_data.basics_mod', '-', 'PYMODULE'),
+  ('database.add_data.basics_mod.basics_exercise',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\basics_mod\\basics_exercise.py',
+   'PYMODULE'),
+  ('database.add_data.basics_mod.basics_shower',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\basics_mod\\basics_shower.py',
+   'PYMODULE'),
+  ('database.add_data.basics_mod.basics_teethbrushing',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\basics_mod\\basics_teethbrushing.py',
+   'PYMODULE'),
+  ('database.add_data.diet_mod', '-', 'PYMODULE'),
+  ('database.add_data.diet_mod.diet',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\diet_mod\\diet.py',
+   'PYMODULE'),
+  ('database.add_data.diet_mod.diet_hydration',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\diet_mod\\diet_hydration.py',
+   'PYMODULE'),
+  ('database.add_data.lily_mod', '-', 'PYMODULE'),
+  ('database.add_data.lily_mod.lily_diet',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\lily_mod\\lily_diet.py',
+   'PYMODULE'),
+  ('database.add_data.lily_mod.lily_mood',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\lily_mod\\lily_mood.py',
+   'PYMODULE'),
+  ('database.add_data.lily_mod.lily_notes',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\lily_mod\\lily_notes.py',
+   'PYMODULE'),
+  ('database.add_data.lily_mod.lily_time_in_room',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\lily_mod\\lily_time_in_room.py',
+   'PYMODULE'),
+  ('database.add_data.lily_mod.lily_walk_notes',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\lily_mod\\lily_walk_notes.py',
+   'PYMODULE'),
+  ('database.add_data.lily_mod.lily_walks',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\lily_mod\\lily_walks.py',
+   'PYMODULE'),
+  ('database.add_data.mental', '-', 'PYMODULE'),
+  ('database.add_data.mental.cspr',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\mental\\cspr.py',
+   'PYMODULE'),
+  ('database.add_data.mental.mmdmr',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\mental\\mmdmr.py',
+   'PYMODULE'),
+  ('database.add_data.mental.wefe',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\mental\\wefe.py',
+   'PYMODULE'),
+  ('database.add_data.sleep_mod', '-', 'PYMODULE'),
+  ('database.add_data.sleep_mod.sleep',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\sleep_mod\\sleep.py',
+   'PYMODULE'),
+  ('database.add_data.sleep_mod.sleep_quality',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\sleep_mod\\sleep_quality.py',
+   'PYMODULE'),
+  ('database.add_data.sleep_mod.sleep_total_hours_slept',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\sleep_mod\\sleep_total_hours_slept.py',
+   'PYMODULE'),
+  ('database.add_data.sleep_mod.sleep_woke_up_like',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\add_data\\sleep_mod\\sleep_woke_up_like.py',
+   'PYMODULE'),
+  ('database.database_manager',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\database_manager.py',
+   'PYMODULE'),
+  ('database.database_utility', '-', 'PYMODULE'),
+  ('database.database_utility.delete_records',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\database_utility\\delete_records.py',
+   'PYMODULE'),
+  ('database.database_utility.model_setup',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\database\\database_utility\\model_setup.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('formatters', '-', 'PYMODULE'),
+  ('formatters.alignment', '-', 'PYMODULE'),
+  ('formatters.alignment.center_align',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\alignment\\center_align.py',
+   'PYMODULE'),
+  ('formatters.alignment.justify_align',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\alignment\\justify_align.py',
+   'PYMODULE'),
+  ('formatters.alignment.left_align',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\alignment\\left_align.py',
+   'PYMODULE'),
+  ('formatters.alignment.right_align',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\alignment\\right_align.py',
+   'PYMODULE'),
+  ('formatters.colors', '-', 'PYMODULE'),
+  ('formatters.colors.color_text',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\colors\\color_text.py',
+   'PYMODULE'),
+  ('formatters.colors.highlight',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\colors\\highlight.py',
+   'PYMODULE'),
+  ('formatters.general', '-', 'PYMODULE'),
+  ('formatters.general.bold',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\bold.py',
+   'PYMODULE'),
+  ('formatters.general.decrease_size',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\decrease_size.py',
+   'PYMODULE'),
+  ('formatters.general.increase_size',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\increase_size.py',
+   'PYMODULE'),
+  ('formatters.general.italic',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\italic.py',
+   'PYMODULE'),
+  ('formatters.general.strikethrough',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\strikethrough.py',
+   'PYMODULE'),
+  ('formatters.general.subscript',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\subscript.py',
+   'PYMODULE'),
+  ('formatters.general.superscript',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\superscript.py',
+   'PYMODULE'),
+  ('formatters.general.underline',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\general\\underline.py',
+   'PYMODULE'),
+  ('formatters.text_alignment_setup',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\text_alignment_setup.py',
+   'PYMODULE'),
+  ('formatters.text_format_setup',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\formatters\\text_format_setup.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('logger_setup',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\logger_setup.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('navigation', '-', 'PYMODULE'),
+  ('navigation.master_navigation',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\navigation\\master_navigation.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('settingsmanagers', '-', 'PYMODULE'),
+  ('settingsmanagers.agenda', '-', 'PYMODULE'),
+  ('settingsmanagers.agenda.friday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\agenda\\friday.py',
+   'PYMODULE'),
+  ('settingsmanagers.agenda.monday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\agenda\\monday.py',
+   'PYMODULE'),
+  ('settingsmanagers.agenda.saturday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\agenda\\saturday.py',
+   'PYMODULE'),
+  ('settingsmanagers.agenda.sunday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\agenda\\sunday.py',
+   'PYMODULE'),
+  ('settingsmanagers.agenda.thursday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\agenda\\thursday.py',
+   'PYMODULE'),
+  ('settingsmanagers.agenda.tuesday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\agenda\\tuesday.py',
+   'PYMODULE'),
+  ('settingsmanagers.agenda.wednesday',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\agenda\\wednesday.py',
+   'PYMODULE'),
+  ('settingsmanagers.lilys_widgets',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\settingsmanagers\\lilys_widgets.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tracker_config',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\tracker_config.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('ui', '-', 'PYMODULE'),
+  ('ui.app',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\ui\\app.py',
+   'PYMODULE'),
+  ('ui.main_ui', '-', 'PYMODULE'),
+  ('ui.main_ui.gui',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\ui\\main_ui\\gui.py',
+   'PYMODULE'),
+  ('ui.main_ui.res',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\ui\\main_ui\\res.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('utility', '-', 'PYMODULE'),
+  ('utility.app_operations', '-', 'PYMODULE'),
+  ('utility.app_operations.current_date_highlighter',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\app_operations\\current_date_highlighter.py',
+   'PYMODULE'),
+  ('utility.app_operations.diet_calc',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\app_operations\\diet_calc.py',
+   'PYMODULE'),
+  ('utility.app_operations.frameless_window',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\app_operations\\frameless_window.py',
+   'PYMODULE'),
+  ('utility.app_operations.save_generic',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\app_operations\\save_generic.py',
+   'PYMODULE'),
+  ('utility.app_operations.show_hide',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\app_operations\\show_hide.py',
+   'PYMODULE'),
+  ('utility.app_operations.window_controls',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\app_operations\\window_controls.py',
+   'PYMODULE'),
+  ('utility.widgets_set_widgets', '-', 'PYMODULE'),
+  ('utility.widgets_set_widgets.buttons_set_time',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\widgets_set_widgets\\buttons_set_time.py',
+   'PYMODULE'),
+  ('utility.widgets_set_widgets.line_connections',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\widgets_set_widgets\\line_connections.py',
+   'PYMODULE'),
+  ('utility.widgets_set_widgets.slider_spinbox_connections',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\widgets_set_widgets\\slider_spinbox_connections.py',
+   'PYMODULE'),
+  ('utility.widgets_set_widgets.slider_timers',
+   'C:\\Users\\Captain Francisco\\jblm_apps\\jblm_8_25\\JBLM '
+   'ver8_17\\utility\\widgets_set_widgets\\slider_timers.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Captain '
+   'Francisco\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])
